@@ -1,16 +1,46 @@
-## Hi there 👋
+### Hey, I’m Suyash 👋
 
-<!--
-**suyashbha/suyashbha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS undergrad at Delhi Technological University (DTU), currently in my third year.  
+I build projects that help me learn, solve real problems, and sometimes break stuff — intentionally.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚧 What I'm Working On
+
+- **SmartStocks** — an in-progress algo-trading tool with a FastAPI backend, MongoDB storage, and a React-based dashboard.  
+- Internal dev tooling, deployment experiments, and a few personal utilities I might open-source later.
+
+---
+
+### ⚙️ What I Like Working With
+
+- **Languages:** Python, JavaScript, C++  
+- **Frameworks & Tools:** FastAPI, Node.js, React, Tailwind  
+- **Infra/DevOps:** Railway, Vercel, MongoDB Atlas
+
+Clean architecture > clever hacks. I care more about why something works than just how.
+
+---
+
+### 🧠 Learning Goals Right Now
+
+- Scalable backend design  
+- Real-time systems (websockets, event-driven pipelines)  
+- Finetuning frontend UX for actual users  
+
+---
+
+### 🧰 Toolbox Highlights
+
+| Dev        | Backend     | Frontend     | Infra    |
+|------------|-------------|--------------|----------|
+| Git        | FastAPI     | React.js     | Railway  |
+| VS Code    | MongoDB     | TailwindCSS  | Vercel   |
+| Postman    | JWT/Auth    | Axios        | GitHub Actions |
+
+---
+
+### 📫 Let’s Connect
+
+- [LinkedIn](https://linkedin.com/in/suyashbha)  
+- Reach out if you're into trading tech, backend engineering, or just want to geek out over clean API design.
