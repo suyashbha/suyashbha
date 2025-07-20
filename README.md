@@ -42,5 +42,5 @@ Clean architecture > clever hacks. I care more about why something works than ju
 
 ### 📫 Let’s Connect
 
-- [LinkedIn](https://linkedin.com/in/suyashbha)  
+- [LinkedIn](https://www.linkedin.com/in/suyash-bhardwaj/)  
 - Reach out if you're into trading tech, backend engineering, or just want to geek out over clean API design.
